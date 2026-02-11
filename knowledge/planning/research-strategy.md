@@ -14,6 +14,11 @@
   - 문헌정보학: LISTA, Library Literature
   - 종합: Scopus, Web of Science, Google Scholar
   - 핀테크: SSRN, IEEE Xplore, ACM DL
+  - 의학/생명과학: PubMed
+  - 심리학: PsycINFO
+  - 한국 학술 DB: DBPIA
+  - 한국학술지인용색인: KCI
+  - CS/물리/수학 프리프린트: arXiv
 - **검색 수식**: Boolean 연산 (AND, OR, NOT), 절단 검색(Truncation)
 - **스노우볼링(Snowballing)**: 핵심 논문의 참고문헌/피인용 추적
 

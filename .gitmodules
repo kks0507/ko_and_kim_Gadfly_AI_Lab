@@ -1,0 +1,3 @@
+[submodule "tensw-claude"]
+	path = tensw-claude
+	url = https://github.com/tensw/tensw-claude.git

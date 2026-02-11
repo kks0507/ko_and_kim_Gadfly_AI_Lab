@@ -1,0 +1,71 @@
+{
+  "companies": [
+    {
+      "id": "research-lab",
+      "name": "Gadfly AI 연구소",
+      "description": "범용 학술 연구소. 아이디어부+분석부+방법론부+시스템설계부 4개 부서, CEO=Director, 8명",
+      "recommended_mode": "sequential",
+      "ceo": { "keywords": ["research", "director", "academic", "curator", "planning"] },
+      "departments": [
+        {
+          "id": "idea-dept",
+          "name": "아이디어부",
+          "lead": {
+            "name": "brainstormer",
+            "role": "브레인스토머",
+            "keywords": ["ideation", "research", "theory", "framework", "brainstorm"]
+          },
+          "members": [
+            {
+              "name": "search-strategist",
+              "role": "검색전략가",
+              "keywords": ["search", "literature", "review", "database", "keyword", "strategy"]
+            }
+          ]
+        },
+        {
+          "id": "analysis-dept",
+          "name": "분석부",
+          "lead": {
+            "name": "literature-analyst",
+            "role": "문헌분석가",
+            "keywords": ["citation", "literature", "analysis", "review", "paper"]
+          },
+          "members": [
+            {
+              "name": "data-analyst",
+              "role": "데이터분석가",
+              "keywords": ["statistics", "data", "analysis", "apa", "results", "visualization"]
+            }
+          ]
+        },
+        {
+          "id": "methodology-dept",
+          "name": "방법론부",
+          "lead": {
+            "name": "methodologist",
+            "role": "방법론전문가",
+            "keywords": ["methodology", "research", "design", "survey", "irb"]
+          },
+          "members": [
+            {
+              "name": "planning-expert",
+              "role": "기획전문가",
+              "keywords": ["ontology", "planning", "strategy", "knowledge", "structure"]
+            }
+          ]
+        },
+        {
+          "id": "systems-dept",
+          "name": "시스템설계부",
+          "lead": {
+            "name": "systems-architect",
+            "role": "시스템설계전문가",
+            "keywords": ["system", "architecture", "platform", "ai", "prototype", "development", "implementation", "llm", "pipeline"]
+          },
+          "members": []
+        }
+      ]
+    }
+  ]
+}
