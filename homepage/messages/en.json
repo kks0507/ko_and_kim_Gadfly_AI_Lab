@@ -1,0 +1,98 @@
+{
+  "Header": {
+    "about": "About",
+    "research": "Research",
+    "team": "Team",
+    "publications": "Publications"
+  },
+  "Hero": {
+    "title": "Gadfly AI Lab",
+    "subtitle": "AI-Enhanced Education Research Institute",
+    "slogan": "Productive Friction, Not Friction Elimination",
+    "affiliation": "Sungkyunkwan University"
+  },
+  "About": {
+    "sectionTitle": "About Us",
+    "vision": "We shift the core design parameter of AI education systems from 'amount of help' to 'quality of friction.'",
+    "philosophy": "Just as Socrates — the 'Gadfly' of Athens — relentlessly posed annoying questions, we research how AI can provide precisely calibrated cognitive friction to strengthen critical thinking.",
+    "description": "Gadfly AI Lab proposes a new paradigm for educational AI. Starting from the insight that 'frictionless' AI tutoring systems paradoxically accelerate metacognitive laziness, we design and validate an Educational Friction Framework inspired by the physics of friction.",
+    "quote": "On a frictionless ice surface, no matter how hard you push, you cannot move forward.",
+    "framework": "F_edu = μ_AI × N_learner"
+  },
+  "Research": {
+    "sectionTitle": "Research Areas",
+    "r1": {
+      "title": "Educational Friction Framework",
+      "description": "Designing and validating the Educational Friction Framework F_edu = μ_AI × N_learner, inspired by the physics of friction (f=μN)."
+    },
+    "r2": {
+      "title": "Adversarial AI for Collaborative Learning",
+      "description": "The Annoying Socrates — an adversarial AI teammate model that promotes critical thinking through deliberate cognitive friction in CSCL."
+    },
+    "r3": {
+      "title": "Cultural AI Design",
+      "description": "AI Red Team mechanism — friction calibration adapted to cultural contexts (face-saving cultures) and social shielding design."
+    },
+    "r4": {
+      "title": "Student Agency & Learning Acceleration",
+      "description": "Strengthening student agency through Appeal systems, causal thinking training, and Progressive Overload-based growth spirals."
+    },
+    "r5": {
+      "title": "Real-time Adaptive Education",
+      "description": "Achieving agile education through LLM-based real-time N_learner estimation and dynamic μ_AI adjustment."
+    }
+  },
+  "Team": {
+    "sectionTitle": "Our Team",
+    "coDirectors": "Co-Directors",
+    "advisor": "Advisor",
+    "aiResearchers": "AI Researchers",
+    "hjko": {
+      "name": "HJ. Ko",
+      "role": "Co-Director",
+      "fields": "Linguistics · Education · Journalism",
+      "affiliation": "Sungkyunkwan University"
+    },
+    "gskim": {
+      "name": "GS. Kim",
+      "role": "Co-Director",
+      "fields": "Education Systems · AI · Library & Information Science",
+      "affiliation": "Sungkyunkwan University"
+    },
+    "jbkim": {
+      "name": "JB. Kim",
+      "role": "Advisor",
+      "fields": "Computer Science · Educational Technology · Biology",
+      "affiliation": "Sungkyunkwan University"
+    },
+    "claude": {
+      "name": "CLAUDE",
+      "role": "Senior Researcher",
+      "fields": "Anthropic AI",
+      "affiliation": "Anthropic"
+    },
+    "gemini": {
+      "name": "GEMINI",
+      "role": "Lead Researcher",
+      "fields": "Google AI",
+      "affiliation": "Google"
+    }
+  },
+  "Publications": {
+    "sectionTitle": "Publications",
+    "p1": {
+      "title": "The Annoying Socrates: A Friction-Based Adversarial AI Model for Collaborative Learning",
+      "authors": "Ko, H., Kim, G., & Kim, J.",
+      "venue": "AIED 2026",
+      "year": "2026",
+      "status": "In Preparation",
+      "keywords": "Adversarial AI · Cognitive Friction · Collaborative Learning · Socratic Method"
+    }
+  },
+  "Footer": {
+    "description": "AI-Powered Educational Friction Research Lab",
+    "quickLinks": "Quick Links",
+    "affiliation": "Sungkyunkwan University",
+    "copyright": "© 2026 Gadfly AI Lab. All rights reserved."
+  }
+}

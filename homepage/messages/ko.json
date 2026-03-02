@@ -1,0 +1,98 @@
+{
+  "Header": {
+    "about": "소개",
+    "research": "연구",
+    "team": "연구진",
+    "publications": "논문"
+  },
+  "Hero": {
+    "title": "Gadfly AI Lab",
+    "subtitle": "AI-Enhanced Education Research Institute",
+    "slogan": "Productive Friction, Not Friction Elimination",
+    "affiliation": "성균관대학교"
+  },
+  "About": {
+    "sectionTitle": "연구소 소개",
+    "vision": "AI 교육 시스템의 핵심 설계 변수를 '도움의 양(amount of help)'에서 '마찰의 질(quality of friction)'로 전환합니다.",
+    "philosophy": "소크라테스가 아테네의 '등에(Gadfly)'로서 끊임없이 성가신 질문을 던졌듯, AI가 학습자에게 정밀하게 보정된 인지적 마찰을 제공하여 비판적 사고력을 강화하는 연구를 수행합니다.",
+    "description": "Gadfly AI Lab은 교육용 AI의 새로운 패러다임을 제안합니다. 기존의 '무마찰' AI 교육 시스템이 오히려 학습자의 메타인지적 게으름을 촉진한다는 문제의식에서 출발하여, 물리학의 마찰력 개념에서 영감받은 교육적 마찰 프레임워크를 설계하고 검증합니다.",
+    "quote": "마찰력이 없는 빙판 위에서는 아무리 힘차게 발을 내딛어도 전진할 수 없다.",
+    "framework": "F_edu = μ_AI × N_learner"
+  },
+  "Research": {
+    "sectionTitle": "연구 분야",
+    "r1": {
+      "title": "Educational Friction Framework",
+      "description": "물리학의 마찰력(f=μN)에서 영감받은 교육적 마찰 프레임워크 F_edu = μ_AI × N_learner를 설계하고 검증합니다."
+    },
+    "r2": {
+      "title": "Adversarial AI for Collaborative Learning",
+      "description": "대립적 AI 팀원 모델 'The Annoying Socrates' — CSCL 환경에서 의도적 인지 마찰을 통해 비판적 사고를 촉진합니다."
+    },
+    "r3": {
+      "title": "Cultural AI Design",
+      "description": "AI Red Team 메커니즘 — 문화적 맥락(체면 문화 등)에 맞춘 마찰 보정 및 사회적 방패를 설계합니다."
+    },
+    "r4": {
+      "title": "Student Agency & Learning Acceleration",
+      "description": "Appeal 시스템, 인과적 사고 훈련, Progressive Overload 기반 성장 나선으로 학습자 주체성을 강화합니다."
+    },
+    "r5": {
+      "title": "Real-time Adaptive Education",
+      "description": "LLM 기반 실시간 학습자 역량(N_learner) 추정 및 μ_AI 동적 조절로 애자일 교육을 실현합니다."
+    }
+  },
+  "Team": {
+    "sectionTitle": "연구진",
+    "coDirectors": "공동 연구소장",
+    "advisor": "연구소 고문",
+    "aiResearchers": "AI 연구원",
+    "hjko": {
+      "name": "HJ. Ko",
+      "role": "공동 연구소장",
+      "fields": "언어공학 · 교육학 · 저널리즘",
+      "affiliation": "성균관대학교"
+    },
+    "gskim": {
+      "name": "GS. Kim",
+      "role": "공동 연구소장",
+      "fields": "교육시스템 · AI · 문헌정보학",
+      "affiliation": "성균관대학교"
+    },
+    "jbkim": {
+      "name": "JB. Kim",
+      "role": "연구소 고문",
+      "fields": "컴퓨터공학 · 교육공학 · 생물학",
+      "affiliation": "성균관대학교"
+    },
+    "claude": {
+      "name": "CLAUDE",
+      "role": "수석연구원",
+      "fields": "Anthropic AI",
+      "affiliation": "Anthropic"
+    },
+    "gemini": {
+      "name": "GEMINI",
+      "role": "책임연구원",
+      "fields": "Google AI",
+      "affiliation": "Google"
+    }
+  },
+  "Publications": {
+    "sectionTitle": "연구 성과",
+    "p1": {
+      "title": "The Annoying Socrates: A Friction-Based Adversarial AI Model for Collaborative Learning",
+      "authors": "Ko, H., Kim, G., & Kim, J.",
+      "venue": "AIED 2026",
+      "year": "2026",
+      "status": "투고 준비중",
+      "keywords": "Adversarial AI · Cognitive Friction · Collaborative Learning · Socratic Method"
+    }
+  },
+  "Footer": {
+    "description": "AI 기반 교육 마찰 연구소",
+    "quickLinks": "바로가기",
+    "affiliation": "성균관대학교",
+    "copyright": "© 2026 Gadfly AI Lab. All rights reserved."
+  }
+}
